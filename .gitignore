@@ -1,0 +1,5 @@
+data/
+*.pyc
+dataset/
+test/
+result*/
